@@ -10,164 +10,164 @@
    },
    {
        "id": 2,
-       "examName": "upsc",
-       "postName": "IAS Officer, IPS Officer & Other",
+       "examName": "ssc",
+       "postName": "income-Tax inspector, GST-Inspector & Other",
        "totalPost": "16002",
        "applyDate": "31 aug 2023",
        "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
+       "link": "https://ssc.nic.in/"
    },
    {
        "id": 3,
-       "examName": "upsc",
-       "postName": "IAS Officer, IPS Officer & Other",
+       "examName": "railway",
+       "postName": "NTPC, Group-D & Other",
        "totalPost": "16002",
        "applyDate": "31 aug 2023",
        "lastDate": "1 sept 2023 12pm",
-       "link": "https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.pnghttps://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202022"
+       "link": "https://indianrailways.gov.in/"
    },
    {
        "id": 4,
-       "examName": "ssc",
-       "postName": "IAS Officer, IPS Officer & Other",
+       "examName": "bankig",
+       "postName": "IPBS PO, IPBS RRB & Other",
        "totalPost": "16002",
        "applyDate": "31 aug 2023",
        "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 5,
-       "examName": "ssc",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 6,
-       "examName": "ssc",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 7,
-       "examName": "upsc",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 8,
-       "examName": "railway",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 9,
-       "examName": "railway",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 10,
-       "examName": "railway",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 11,
-       "examName": "Bank",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 12,
-       "examName": "Bank",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 13,
-       "examName": "Bank",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 14,
-       "examName": "Bank",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 15,
-       "examName": "Bank",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 16,
-       "examName": "UPSC CDS",
-       "postName": "IAS Officer, IPS Officer & Other",
-       "totalPost": "16002",
-       "applyDate": "31 aug 2023",
-       "lastDate": "1 sept 2023 12pm",
-       "link": "https://upsc.gov.in/"
-   },
-   {
-       "id": 17,
-       "examName":"Bank",
-       "postName":"SBI PO",
-       "totalPost":"11005",
-       "applyDate":"20jan 2024",
-       "lastDate":"28feb 2024",
-       "link":"https://www.ibps.in/"
-   },
-   {
-       "id": 18,
-       "examName":"SSC",
-       "postName":"SSC cgl",
-       "totalPost":"37400",
-       "applyDate":"5 sept 2023",
-       "lastDate":"5 oct 2023",
        "link": "https://www.ibps.in/"
    },
    {
+       "id": 5,
+       "examName": "CTET",
+       "postName": ", Ctet & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://ctet.nic.in/"
+   },
+   {
+       "id": 6,
+       "examName": "NDA",
+       "postName": "Army, Air-Force, Indian-Navy & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://www.nda.nic.in/"
+   },
+   {
+       "id": 7,
+       "examName": "CAT",
+       "postName": "VARC, DILR & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://iimcat.ac.in/per/g01/pub/756/ASM/WebPortal/1/index.html?756@@1@@1"
+   },
+   {
+       "id": 8,
+       "examName": "MAT",
+       "postName": "PBT, CBT & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://mat.aima.in/"
+   },
+   {
+       "id": 9,
+       "examName": "Gate",
+       "postName": "AE, AG, CE & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://gate.iitkgp.ac.in/"
+   },
+   {
+       "id": 10,
+       "examName": "NEET",
+       "postName": "MBBS",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://neet.nta.nic.in/information-bulletin/"
+   },
+   {
+       "id": 11,
+       "examName": "BPSC",
+       "postName": "SDM, DSP & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://www.bpsc.bih.nic.in/"
+   },
+   {
+       "id": 12,
+       "examName": "HPSC",
+       "postName": "SDM, DSP & Other",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://hpsc.gov.in/en-us/"
+   },
+   {
+       "id": 13,
+       "examName": "MES ",
+       "postName": "Military Engineering Service",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://mes.gov.in/"
+   },
+   {
+       "id": 14,
+       "examName": "CLAT",
+       "postName": "Common Law Admission Test",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://consortiumofnlus.ac.in/"
+   },
+   {
+       "id": 15,
+       "examName": "IFS",
+       "postName": "Indian Forest Service",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://ifs.nic.in/"
+   },
+   {
+       "id": 16,
+       "examName": "IRPS",
+       "postName": "Indian Railway Personnel Service",
+       "totalPost": "16002",
+       "applyDate": "31 aug 2023",
+       "lastDate": "1 sept 2023 12pm",
+       "link": "https://irps.in/web/"
+   },
+   {
+       "id": 17,
+       "examName":"BHU",
+       "postName":"Banaras Hindu University (Entrance Examination)",
+       "totalPost":"11005",
+       "applyDate":"20jan 2024",
+       "lastDate":"28feb 2024",
+       "link":"https://www.bhu.ac.in/Site/Home/1_2_16_Main-Site"
+   },
+   {
+       "id": 18,
+       "examName":"CDS",
+       "postName":"Combined Defence Services Examination",
+       "totalPost":"37400",
+       "applyDate":"5 sept 2023",
+       "lastDate":"5 oct 2023",
+       "link": "https://upsc.gov.in/examinations/Combined%20Defence%20Services%20Examination%20%28I%29%2C%202023"
+   },
+   {
        "id": 19,
-       "examName": "railway",
-       "postName": "NTPC",
+       "examName": "NAT",
+       "postName": "National Aptitude Tes",
        "totalPost": "5600",
        "applyDate": "30 sept 2023",
        "lastDate": " 3 oct 2023",
-       "link" : "https://www.ibps.in/"
+       "link" : "https://nat.nta.ac.in/"
    }
    ]
